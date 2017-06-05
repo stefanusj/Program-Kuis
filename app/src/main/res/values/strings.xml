@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Program Kuis</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="mulai">Mulai</string>
+    <string name="juara_1">Juara 1</string>
+    <string name="juara_2">Juara 2</string>
+    <string name="juara_3">Juara 3</string>
+    <string name="reset">Reset</string>
+    <string name="jumlah_benar">Jumlah Benar</string>
+    <string name="selesai">Selesai</string>
+
+</resources>
